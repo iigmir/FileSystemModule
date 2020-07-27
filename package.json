@@ -1,0 +1,19 @@
+{
+  "name": "filesystemmodule",
+  "version": "1.0.0",
+  "description": "If you just don't want to give your fs a shit......This is a fs simplify library.",
+  "main": "FileSystemModule.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iigmir/FileSystemModule.git"
+  },
+  "author": "iigmir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iigmir/FileSystemModule/issues"
+  },
+  "homepage": "https://github.com/iigmir/FileSystemModule#readme"
+}
