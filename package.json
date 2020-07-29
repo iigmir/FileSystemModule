@@ -4,7 +4,7 @@
   "description": "If you just don't want to give your fs a shit......This is a fs simplify library.",
   "main": "FileSystemModule.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test/index.spec.js"
   },
   "repository": {
     "type": "git",
