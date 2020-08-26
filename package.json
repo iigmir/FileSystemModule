@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/iigmir/FileSystemModule/issues"
   },
-  "homepage": "https://github.com/iigmir/FileSystemModule#readme"
+  "homepage": "https://github.com/iigmir/FileSystemModule#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
 }
